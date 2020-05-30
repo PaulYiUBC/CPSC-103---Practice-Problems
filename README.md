@@ -2,13 +2,21 @@
 Student-made practice problems for CPSC 103 @ UBC
 
 To Do Log: 
+
 -Adapted practice final problems intended for pen/paper assessment into organized Jupyter notebook cells 
+
 -Added step-by-step solutions/study guides to practice problems 
+
 -Created bonus questions to supplement/extend core practice problems 
+
 -Provided necessary csv files to complete read function problems 
+
 -Added helper function support for final question 
+
 -Added study tips
+
 -Added MindNode map for course materials + PDF
+
 -Added Anki flash cards for basic language operators/functions
 
 Tips for Success:
