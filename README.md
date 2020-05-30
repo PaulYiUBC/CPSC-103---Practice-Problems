@@ -21,9 +21,9 @@ To Do Log:
 
 Tips for Success:
 
-1) When trying to learn the language/expression/data/function principles, try to absorb the material within an interesting, contextualized framework. This could be done through memes ("trust the recursion") or anecdotes ("Enumeration is used when you have only a certain number of board games to play"). Trying to memorize all the material in a clinical abstract environment can be difficult. Learning data defintions, for example, using trigger words or memories can help you during a crucial moment during an example. 
+1) When trying to learn the language/expression/data/function principles, try to absorb the material within an interesting, contextualized framework. This could be done through memes ("trust the recursion") or anecdotes ("Enumeration is used when you have only a certain number of board games to play"). Trying to memorize all the material in a clinical abstract environment can be difficult. Learning data definitions, for example, using trigger words or memories can help you during a crucial moment during an example. 
 
-For example, when trying to commit compound data definitions you could try practice using it in the context of a hypotethical situation. Imagine using a compound data defintion to a record data if you were conducting COVID-19 contact tracing. Each data point would have clearly definied and limited categories such as name, address, test results, travel history, etc. 
+For example, when trying to commit compound data definitions you could try practice using it in the context of a hypothetical  situation. Imagine using a compound data definition to a record data if you were conducting COVID-19 contact tracing. Each data point would have clearly defined and limited categories such as name, address, test results, travel history, etc. 
 
 2) Be prepared before reaching out to your TAs and professors for help. To make the most of your time and that of your TA/professor, try to prepare and do your due diligence before asking them for help.
 
