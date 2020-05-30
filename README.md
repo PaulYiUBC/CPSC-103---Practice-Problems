@@ -11,7 +11,7 @@ For example, when trying to commit compound data definitions you could try pract
 
 For example, if a particular code review is very challenging and would like some assistance. Try going through the whole code review assignment - take note of which particular questions/lines of code is causing you the most frustration - make a note of what question you would like to ask (knowing that they will not give you the direct/full answer). 
 
-You may find that doing this preparation that you may answer your original question. 
+You may find that in doing this preparation that you may find the answer yourself. 
 
 3) Keep up with the weekly assignments with efficient tools. I used Wunderlist/Google Calendar/Canvas notifications/Evernote to keep on top of all the deadlines you'll be responsible for. The Canvas mobile app is also very useful to quickly keep track of deadlines. 
 
